@@ -8,3 +8,12 @@
 
 insert into genres (genre) values ('Комедия')
 insert into books (name, date, author, genre_id) values ('Жалобная книга', 1884,'Чехов', 7)
+
+
+Вопрос 3.8.7
+
+insert into books (name, date, author, genre_id) values
+('Одиссея капитана Блада', 1922,'Сабатини', 3),
+('Тайный сыск царя Гороха', 1999, 'Белянин', 5),
+('Знак четырёх', 1890, 'Конан Дойл', 2)
+
